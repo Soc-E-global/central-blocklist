@@ -1,2 +1,16 @@
 *.hqworfonfe.co
 sfo2.digitaloceanspaces.com
+browsec.com
+zenmate.com
+windscribe.com
+tunnelbear.com
+protonvpn.com
+hotspotshield.com
+ultrasurf.us
+vpngate.net
+psiphon.ca
+anonymouse.org
+kproxy.com
+hide.me
+hidemyass.com
+torproject.org
