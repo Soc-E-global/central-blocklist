@@ -1,1 +1,2 @@
 *.hqworfonfe.co
+sfo2.digitaloceanspaces.com
